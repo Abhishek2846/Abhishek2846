@@ -63,12 +63,10 @@ My interests include **Full-Stack Development, Software Engineering, Machine Lea
 # 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek2846&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2846&layout=compact&theme=tokyonight"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Abhishek2846&theme=tokyonight"/>
+  <a href="https://github.com/Abhishek2846">
+    <img src="https://github-host-stats.vercel.app/api?username=Abhishek2846&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Abhishek's Stats" height="175px" />
+  </a>
+  <img src="https://streak-stats.demolab.com?user=Abhishek2846&theme=dark&mode=daily&hide_border=true&border_radius=5" alt="GitHub Streak" height="175px" />
 </div>
 
 ---
