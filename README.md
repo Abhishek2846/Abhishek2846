@@ -77,31 +77,18 @@ My interests include **Full-Stack Development, Software Engineering, Machine Lea
 ## 🌱 Currently Learning
 
 - Advanced React
+- Advanced .NET
 - System Design
-- Spring Boot
 - Machine Learning
-- Cloud Computing
-- DevOps Fundamentals
-
+- Computer Networks
+- 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+* **LinkedIn:** www.linkedin.com/in/abhishek-charadva
 
-<a href="https://github.com/Abhishek2846">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="in/abhishek-charadva-9b593a321">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="charadvaabhi@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+* **Email:** charadvaabhi@gmail.com
 
 ---
 
