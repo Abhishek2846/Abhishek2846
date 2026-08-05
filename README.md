@@ -81,7 +81,6 @@ My interests include **Full-Stack Development, Software Engineering, Machine Lea
 - System Design
 - Machine Learning
 - Computer Networks
-- 
 ---
 
 ## 📫 Connect With Me
