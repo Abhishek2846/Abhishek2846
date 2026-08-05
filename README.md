@@ -1,16 +1,116 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Abhishek%20Charadva&section=header" width="100%" />
+</div>
 
-<!--
-**Abhishek2846/Abhishek2846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abhishek 👋
 
-Here are some ideas to get you started:
+Full-Stack Developer and Computer Science student passionate about building scalable web applications, solving Data Structures & Algorithms problems, and exploring AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently pursuing B.Tech in Computer Science & Engineering at Darshan University (Class of 2028).**
+
+Currently working as a **Teaching Assistant (Java - Object Oriented Programming)** and previously served as a **Teaching Assistant for Web Designing**, helping students understand programming concepts, debugging techniques, and web development fundamentals.
+
+My interests include **Full-Stack Development, Software Engineering, Machine Learning, Cloud Technologies, and Open Source**.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Algo Flow
+**Java • Algorithms • Data Structures**
+
+- Interactive algorithm visualization platform.
+- Helps students understand sorting and searching algorithms visually.
+- Clean UI with educational explanations.
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek2846&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek2846&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2846&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React
+- System Design
+- Spring Boot
+- Machine Learning
+- Cloud Computing
+- DevOps Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Abhishek2846">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="in/abhishek-charadva-9b593a321">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="charadvaabhi@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Abhishek2846&color=blue)
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</div>
