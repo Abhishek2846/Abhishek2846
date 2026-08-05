@@ -64,12 +64,11 @@ My interests include **Full-Stack Development, Software Engineering, Machine Lea
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek2846&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek2846&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek2846&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2846&layout=compact&theme=tokyonight"/>
 
+<img height="170" src="https://streak-stats.demolab.com?user=Abhishek2846&theme=tokyonight"/>
 </div>
 
 ---
