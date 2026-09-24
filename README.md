@@ -52,13 +52,9 @@ My interests include **Full-Stack Development, Software Engineering, Machine Lea
 # 🚀 Featured Projects
 
 ## 📊 Algo Flow
-**Java • Algorithms • Data Structures**
-
-- Interactive algorithm visualization platform.
-- Helps students understand sorting and searching algorithms visually.
-- Clean UI with educational explanations.
 - <a href="https://algo-flow-six.vercel.app/"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-667eea?style=for-the-badge"/></a>
-
+## 📊 Loan Default Prediction System
+- <a href="https://loan-default-prediction-aefg.onrender.com/"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-667eea?style=for-the-badge"/></a>
 
 ---
 
